@@ -41,4 +41,5 @@
 }
 .header-link-navigation:hover {
   color: #58a9a5;
+  text-decoration: underline yellow;
 }
